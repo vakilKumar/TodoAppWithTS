@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Todo } from './Model';
 import {AiFillEdit,AiFillDelete} from 'react-icons/ai'
 import {MdDone} from 'react-icons/md';
