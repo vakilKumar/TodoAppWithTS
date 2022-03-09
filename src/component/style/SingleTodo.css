@@ -1,0 +1,20 @@
+.todo_single_cont{
+    height: 2rem;
+    width: 20rem;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+
+}
+
+.todo_single_text{
+    flex: 1;
+    padding: 5px;
+    border: none;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.icon{
+    margin: 4px;
+}

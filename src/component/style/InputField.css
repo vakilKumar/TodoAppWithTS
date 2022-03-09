@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #root{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+.input-cont{
+    height: 1rem;
+    width: 20rem;
+    border-radius: 3rem;
+    border: 2px solid black;
+    font-size:x-large;
+    padding: 20px 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+.submit-cont{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    background-color: blue;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+::placeholder{
+    color: grey;
+}
+
